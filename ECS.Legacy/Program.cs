@@ -18,7 +18,7 @@ namespace ECS.Legacy
                 control.Regulate();
             }
 
-
+            Console.ReadKey();
         }
     }
 }
